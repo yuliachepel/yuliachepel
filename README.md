@@ -25,7 +25,7 @@ Here is my [CV](https://docs.google.com/document/d/19dt9wsOTTi4emkbtr6Or8fisqUH0
 
 -[SQL queries](https://docs.google.com/document/d/11lKavXQKp2NXj81a_H2uy06DF1id7ST0T1snizHD1wI/edit?usp=sharing)
 
--[Bug reports](https://github.com/yuliachepel/tests/issues)
+-[Bug reports](https://github.com/yuliachepel/for-bugs/issues)
 
 ## Automation
 
