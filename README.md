@@ -18,5 +18,25 @@ Here is my [CV](https://docs.google.com/document/d/19dt9wsOTTi4emkbtr6Or8fisqUH0
 ![MySQL](https://img.shields.io/badge/MySQL-122529?style=for-the-badge&logo=mysql)
 ![Dbeaver](https://img.shields.io/badge/Dbeaver-122529?style=for-the-badge&logo=dbeaver)
 
+
 ### Testing artefacts
 
+-[Checklists](https://docs.google.com/spreadsheets/d/1dW5CpQs7G2TBUZl04zzWG5lvOeuwCyqZ/edit#gid=381519670)
+
+-[SQL queries](https://docs.google.com/document/d/11lKavXQKp2NXj81a_H2uy06DF1id7ST0T1snizHD1wI/edit?usp=sharing)
+
+-[Bug reports](https://github.com/yuliachepel/tests/issues)
+
+## Automation
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-122529?style=for-the-badge&logo=visual-studio-code&logoColor=0080FF)
+![Playwright](https://img.shields.io/badge/Playwright-122529?style=for-the-badge&logo=playwright)
+![TypeScript](https://img.shields.io/badge/typescript-122529?style=for-the-badge&logo=typescript)
+![Git](https://img.shields.io/badge/Git-122529?style=for-the-badge&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-122529?style=for-the-badge&logo=gitlab)
+
+### Automation tests examples
+[E2E](https://github.com/yuliachepel/tests)
+
+## Certificates
+IT-Academy Tochka Vhoda - (добавить ссылку на сертификат)
