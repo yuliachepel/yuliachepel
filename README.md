@@ -5,7 +5,7 @@
 
 ## Junior QA engineer
 
-Here is my [CV](https://docs.google.com/document/d/19dt9wsOTTi4emkbtr6Or8fisqUH0iVO-VlFR63Mz3BU/edit#heading=h.r4fb0nowgw1n)
+Here is my [CV](https://drive.google.com/file/d/1Uo6ofK6CktCbN2nhaATUH3Lcvs3-k9fv/view?usp=share_link)
 
 
 ## Manual testing (Web + Mobile)
