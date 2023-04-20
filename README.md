@@ -1,14 +1,14 @@
-# Yulia Chepel
+# Юлия Чепель
 [![Telegram](https://img.shields.io/badge/Telegram-1a3136?style=social&logo=telegram)](https://t.me/chepeliu)
 [![Gmail](https://img.shields.io/badge/Gmail-1a3136?style=social&logo=gmail)](mailto:chepelyu17@gmail.com)
 
 
-## Junior QA engineer
+## Тестировщик (ручное + автоматизация)
 
-Here is my [CV](https://drive.google.com/file/d/1_VQgOsYP3Je92TgGLGVZrb9mGAQ77VGF/view?usp=share_link)
+[Резюме](https://drive.google.com/file/d/1_VQgOsYP3Je92TgGLGVZrb9mGAQ77VGF/view?usp=share_link)
 
 
-## Manual testing (Web + Mobile)
+## Ручное тестирование (Web + Mobile)
 
 ![DevTools](https://img.shields.io/badge/DevTools-122529?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-122529?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -19,15 +19,15 @@ Here is my [CV](https://drive.google.com/file/d/1_VQgOsYP3Je92TgGLGVZrb9mGAQ77VG
 ![Dbeaver](https://img.shields.io/badge/Dbeaver-122529?style=for-the-badge&logo=dbeaver)
 
 
-### Testing artefacts
+### Тестовые артефакты
 
--[Checklists](https://docs.google.com/spreadsheets/d/1dW5CpQs7G2TBUZl04zzWG5lvOeuwCyqZ/edit#gid=381519670)
+-[Чек-лист](https://docs.google.com/spreadsheets/d/1dW5CpQs7G2TBUZl04zzWG5lvOeuwCyqZ/edit#gid=381519670)
 
--[SQL queries](https://docs.google.com/document/d/11lKavXQKp2NXj81a_H2uy06DF1id7ST0T1snizHD1wI/edit?usp=sharing)
+-[SQL-запросы](https://docs.google.com/document/d/11lKavXQKp2NXj81a_H2uy06DF1id7ST0T1snizHD1wI/edit?usp=sharing)
 
--[Bug reports](https://github.com/yuliachepel/for-bugs/issues)
+-[Баг-репорты](https://github.com/yuliachepel/for-bugs/issues)
 
-## Automation
+## Автоматизация
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-122529?style=for-the-badge&logo=visual-studio-code&logoColor=0080FF)
 ![Playwright](https://img.shields.io/badge/Playwright-122529?style=for-the-badge&logo=playwright)
@@ -35,8 +35,8 @@ Here is my [CV](https://drive.google.com/file/d/1_VQgOsYP3Je92TgGLGVZrb9mGAQ77VG
 ![Git](https://img.shields.io/badge/Git-122529?style=for-the-badge&logo=git)
 ![GitLab](https://img.shields.io/badge/GitLab-122529?style=for-the-badge&logo=gitlab)
 
-### Automation tests examples
+### Примеры автотестов
 [E2E](https://github.com/yuliachepel/tests)
 
-## Certificates
-IT-Academy Tochka Vhoda - (добавить ссылку на сертификат)
+## Сертификаты
+IT-Академия Точка Входа - (добавить ссылку на сертификат)
