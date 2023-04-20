@@ -23,7 +23,7 @@
 
 -[Чек-лист](https://docs.google.com/spreadsheets/d/1dW5CpQs7G2TBUZl04zzWG5lvOeuwCyqZ/edit#gid=381519670)
 
--[SQL-запросы](https://docs.google.com/document/d/11lKavXQKp2NXj81a_H2uy06DF1id7ST0T1snizHD1wI/edit?usp=sharing)
+-[SQL-запросы](https://github.com/yuliachepel/Sql_queries)
 
 -[Баг-репорты](https://github.com/yuliachepel/for-bugs/issues)
 
