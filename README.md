@@ -5,7 +5,7 @@
 
 ## Тестировщик (ручное + автоматизация)
 
-[Резюме](https://drive.google.com/file/d/1_VQgOsYP3Je92TgGLGVZrb9mGAQ77VGF/view?usp=share_link)
+[Резюме](https://drive.google.com/file/d/11LvI-ANqFVtaMFO1lR7h-UkAda7kuYpo/view?usp=sharing)
 
 
 ## Ручное тестирование (Web + Mobile)
@@ -34,9 +34,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-122529?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/Git-122529?style=for-the-badge&logo=git)
 ![GitLab](https://img.shields.io/badge/GitLab-122529?style=for-the-badge&logo=gitlab)
+![GitHab](https://img.shields.io/badge/GitHab-122529?style=for-the-badge&logo=gitрab)
+
 
 ### Примеры автотестов
 [E2E](https://github.com/yuliachepel/tests)
 
 ## Сертификаты
-IT-Академия Точка Входа - (добавить ссылку на сертификат)
+ООО "Смартап Технолоджи" - //(добавить ссылку на сертификат)
