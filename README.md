@@ -5,7 +5,7 @@
 
 ## Тестировщик (ручное + автоматизация)
 
-[Резюме](https://drive.google.com/file/d/11LvI-ANqFVtaMFO1lR7h-UkAda7kuYpo/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1FuOsv94Xq9V6T6kagRc6nvi_EZTOxCIl/view?usp=share_link)
 
 
 ## Ручное тестирование (Web + Mobile)
