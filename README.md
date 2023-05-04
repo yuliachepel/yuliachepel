@@ -41,5 +41,5 @@
 [E2E](https://github.com/yuliachepel/tests)
 
 ## Сертификаты
-- [Удостоверение о повышении квалификации](https://drive.google.com/file/d/18ofBbqtIbj15Rvaoo0RcAQTU3xJl5tpO/view?usp=sharing) по программе "Инженер по тестированию ПО" ООО "Смартап Технолоджи";
+- [Удостоверение о повышении квалификации](https://drive.google.com/file/d/1aJn1-LHMlj69weKCv3AcdGyT-DDeHLXX/view?usp=sharing) по программе "Инженер по тестированию ПО" ООО "Смартап Технолоджи";
 - [Сертификат](https://intuit.ru/verifydiplomas/101597958) по программе "Введение в СУБД MySQL" НОУ "ИНТУИТ".
